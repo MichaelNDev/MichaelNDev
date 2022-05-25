@@ -31,7 +31,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
       <h3 align="center">MichaelNDev's Portfolio</h3>
         <br />
         <a target="_blank" href="https://michaelnguyen.netlify.app/">
-            <img src="images/gif.gif" width="100%" alt="Portfolio"/>
+            <img src="images/michaelndev.png" width="100%" alt="Portfolio"/>
         </a>
         <br/>
         <p align="center">
@@ -46,7 +46,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
       <h3 align="center">The Tao Tea Lounge</h3>
         <br />
       <a target="_blank" href="https://thetaotealounge.netlify.app/">
-            <img src="images/gif.gif" width="100%"  alt="The Tao Tea Lounge"/>
+            <img src="images/tealounge.png" width="100%"  alt="The Tao Tea Lounge"/>
         </a>
         <br />
         <p align="center">
