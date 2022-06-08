@@ -10,7 +10,7 @@
   <a href="https://twitter.com/MichaelNDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=C70039&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://angel.co/u/michaelndev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ffffff&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
