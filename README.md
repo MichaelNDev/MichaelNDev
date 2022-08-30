@@ -74,6 +74,8 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=ffffff&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=C70039&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=ffffff&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=C70039&style=plastic&logo=express"/>
+
 </p>
 
 
