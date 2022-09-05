@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/michaelndev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ffffff&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://docs.google.com/document/d/1EqvTRhnYuGC6ZJfQW49--6RNi2EpzvdK/edit?usp=sharing&ouid=107314292012198217372&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=C70039&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
