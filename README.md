@@ -59,7 +59,40 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     </td>
   </tr>
   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Quote Generator</h3>
+      <br />
+        <a target="_blank" href="https://quote-generator-mnd.netlify.app/">
+          <img src="images/quotegen.jpeg" width="100%" alt="quote generator"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://quote-generator-mnd.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A website that uses a third party API to randomly generate famous people's quotes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Better Todo List</h3>
+        <br />
+        <a target="_blank" href="https://better-todo-list.netlify.app/">
+          <img src="images/bettertodo.jpeg" width="100%" alt="better todo list"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://better-todo-list.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A custom made Todo list using local storage.</p>
+    </td>
+  </tr>
 </table>
+
+
 
 
 <h1 align="center">Technologies</h1>
