@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Former bartender to Full-Stack Software Engineer, I'm here to create a positive change with the tech, knowledge, and tools I've acquired.
+Former bartender to Software Engineer, I'm here to create a positive change with the tech, knowledge, and tools I've acquired.
 
 See [my website](https://michaelnguyen.netlify.app/) for more information!
 
