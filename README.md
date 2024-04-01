@@ -55,7 +55,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Express.js, MongoDB, EJS, Javascript, HTML5, CSS3</strong> - An app that allow users to share, rate, and review individual menu items from their local restaurants!</p>
+        <p><strong>Express.js, MongoDB, EJS, Node, Javascript</strong> - An app that allow users to share, rate, and review individual menu items from their local restaurants!</p>
     </td>
   </tr>
   
