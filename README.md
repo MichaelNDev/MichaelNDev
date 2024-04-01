@@ -43,10 +43,42 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
         <p><strong>Javascript, HTML5, CSS3</strong> - This is my personal portfolio if you're interested in learning more about me and what I'm currently up to.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">TasteThreads</h3>
+        <br />
+      <a target="_blank" href="https://fierce-jade-bee.cyclic.app/">
+            <img src="images/tastethreadspreview.png" width="100%"  alt="TasteThreads"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://fierce-jade-bee.cyclic.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Express.js, MongoDB, EJS, Javascript, HTML5, CSS3</strong> - An app that allow users to share, rate, and review individual menu items from their local restaurants!</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Galaxy Nails</h3>
+      <br />
+        <a target="_blank" href="https://www.galaxynailskc.com/">
+          <img src="images/galaxynailspreview2.png" width="100%" alt="Galaxy Nails"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://www.galaxynailskc.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A Nail Salon website designed to provide their customers the convienence of booking appointments online.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">The Tao Tea Lounge</h3>
         <br />
-      <a target="_blank" href="https://thetaotealounge.netlify.app/">
-            <img src="images/tealounge.png" width="100%"  alt="The Tao Tea Lounge"/>
+        <a target="_blank" href="https://thetaotealounge.netlify.app/">
+          <img src="images/tealounge.png" width="100%" alt="The Tao Tea Lounge"/>
         </a>
         <br />
         <p align="center">
@@ -55,39 +87,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - A responsive website crafted for a teashop business.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Quote Generator</h3>
-      <br />
-        <a target="_blank" href="https://quote-generator-mnd.netlify.app/">
-          <img src="images/quotegen.jpeg" width="100%" alt="quote generator"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://quote-generator-mnd.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A website that uses a third party API to randomly generate famous people's quotes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Better Todo List</h3>
-        <br />
-        <a target="_blank" href="https://better-todo-list.netlify.app/">
-          <img src="images/bettertodo.jpeg" width="100%" alt="better todo list"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://better-todo-list.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A custom made Todo list using local storage.</p>
+       <p><strong>Javascript, HTML5, CSS3</strong> - A responsive website crafted for a teashop business.</p>
     </td>
   </tr>
 </table>
