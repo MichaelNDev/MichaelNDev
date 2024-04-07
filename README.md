@@ -55,7 +55,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Express.js, MongoDB, EJS, Node, Javascript</strong> - An app that allow users to share, rate, and review individual menu items from their local restaurants!</p>
+        <p><strong>Express.js, MongoDB, EJS, Node, Javascript</strong> - This application facilitates a unique platform where users can share, rate, and critique specific menu items from local dining establishments, enhancing the culinary experience through communal insights.</p>
     </td>
   </tr>
   
@@ -72,7 +72,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A Nail Salon website designed to provide their customers the convienence of booking appointments online.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This website is expertly crafted for a nail salon, aiming to offer its clientele the added convenience of scheduling appointments through an online platform.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">The Tao Tea Lounge</h3>
@@ -87,7 +87,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-       <p><strong>Javascript, HTML5, CSS3</strong> - A responsive website crafted for a teashop business.</p>
+       <p><strong>Javascript, HTML5, CSS3</strong> - A sleek and responsive web design for a cozy little teashop, perfectly blending its simple charm with the latest in website trends.</p>
     </td>
   </tr>
 </table>
