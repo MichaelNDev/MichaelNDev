@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/dvi8N7G.jpg" width="100%">
+<img src="https://i.imgur.com/eXPCBgK.png" width="100%">
 
 <p align="center">
   <a href="https://michaelnguyen.netlify.app/" target="_blank">
@@ -10,12 +10,12 @@
   <a href="https://twitter.com/MichaelNDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=C70039&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/michaelndev" target="_blank">
+<!--   <a href="https://angel.co/u/michaelndev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ffffff&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="" target="_blank">
+  </a> -->
+<!--   <a href="" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=C70039&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  </a> -->
 </p>
 
 Former bartender to Software Engineer, I'm here to create a positive change with the tech, knowledge, and tools I've acquired.
