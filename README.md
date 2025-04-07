@@ -75,19 +75,19 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - This website is expertly crafted for a nail salon, aiming to offer its clientele the added convenience of scheduling appointments through an online platform.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">The Tao Tea Lounge</h3>
+      <h3 align="center">Ask Chef Improv</h3>
         <br />
-        <a target="_blank" href="https://thetaotealounge.netlify.app/">
-          <img src="images/tealounge.png" width="100%" alt="The Tao Tea Lounge"/>
+        <a target="_blank" href="https://askchefimprov.netlify.app/">
+          <img src="images/askchefimprov-preview-mn.png" width="100%" alt="The Tao Tea Lounge"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://thetaotealounge.netlify.app/" target="_blank">
+  <a href="https://askchefimprov.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-       <p><strong>Javascript, HTML5, CSS3</strong> - A sleek and responsive web design for a cozy little teashop, perfectly blending its simple charm with the latest in website trends.</p>
+       <p><strong>React, Javascript, HTML5, CSS3</strong> - Ask Chef Improv is an app that uses an AI language model to generate personalized recipes based on the ingredients you provide, helping you create meals with what you have on hand.</p>
     </td>
   </tr>
 </table>
