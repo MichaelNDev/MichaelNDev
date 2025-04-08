@@ -72,7 +72,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - This website is expertly crafted for a nail salon, aiming to offer its clientele the added convenience of scheduling appointments through an online platform.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This website is designed for a nail salon, aiming to offer its clientele the added convenience of scheduling appointments through an online platform.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Ask Chef Improv</h3>
