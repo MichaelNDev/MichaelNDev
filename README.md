@@ -2,13 +2,16 @@
 
 <p align="center">
   <a href="https://michaelnguyen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=re&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michaelndev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ffffff&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=ffffff&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://bsky.app/profile/michaelndev.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=BLUESKY&color=C70039&style=plastic&logo=bsky&logo-color=white"/>
   </a>
   <a href="https://twitter.com/MichaelNDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=C70039&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=ffffff&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 <!--   <a href="https://angel.co/u/michaelndev" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ffffff&style=plastic&logo=angellist&logo-color=white"/>
@@ -43,19 +46,19 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
         <p><strong>Express.js, MongoDB, EJS, Node, Javascript</strong> - This application facilitates a unique platform where users can share, rate, and critique specific menu items from local dining establishments, enhancing the culinary experience through communal insights.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">MichaelNDev's Portfolio</h3>
+      <h3 align="center">Ask Chef Improv</h3>
         <br />
-        <a target="_blank" href="https://michaelnguyen.netlify.app/">
-            <img src="images/michaelndev.png" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://askchefimprov.netlify.app/">
+          <img src="images/askchefimprov-preview-mn.png" width="100%" alt="The Tao Tea Lounge"/>
         </a>
-        <br/>
+        <br />
         <p align="center">
           
-  <a href="https://michaelnguyen.netlify.app/" target="_blank">
+  <a href="https://askchefimprov.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - This is my personal portfolio if you're interested in learning more about me and what I'm currently up to.</p>
+       <p><strong>React, Javascript, HTML5, CSS3</strong> - Ask Chef Improv is an app that uses an AI language model to generate personalized recipes based on the ingredients you provide, helping you create meals with what you have on hand.</p>
     </td>
   </tr>
   
@@ -75,20 +78,21 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - This website is designed for a nail salon, aiming to offer its clientele the added convenience of scheduling appointments through an online platform.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Ask Chef Improv</h3>
+      <h3 align="center">MichaelNDev's Portfolio</h3>
         <br />
-        <a target="_blank" href="https://askchefimprov.netlify.app/">
-          <img src="images/askchefimprov-preview-mn.png" width="100%" alt="The Tao Tea Lounge"/>
+        <a target="_blank" href="https://michaelnguyen.netlify.app/">
+            <img src="images/michaelndev.png" width="100%" alt="Portfolio"/>
         </a>
-        <br />
+        <br/>
         <p align="center">
           
-  <a href="https://askchefimprov.netlify.app/" target="_blank">
+  <a href="https://michaelnguyen.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-       <p><strong>React, Javascript, HTML5, CSS3</strong> - Ask Chef Improv is an app that uses an AI language model to generate personalized recipes based on the ingredients you provide, helping you create meals with what you have on hand.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - This is my personal portfolio if you're interested in learning more about me and what I'm currently up to.</p>
     </td>
+    
   </tr>
 </table>
 
@@ -122,7 +126,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
 
 <p align="center">
   <a href="https://michaelnguyen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=re&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/michaelndev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=ffffff&style=plastic&logo=linkedin&logo-color=white"/>
@@ -130,10 +134,8 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
   <a href="https://twitter.com/MichaelNDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=C70039&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=ffffff&style=plastic&logo=angellist&logo-color=white"/>
+  <a href="https://bsky.app/profile/michaelndev.bsky.social" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=BLUESKY&color=ffffff&style=plastic&logo=bsky&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=C70039&style=plastic&logo=react&logo-color=white"/>
-  </a>
+  
 </p>
