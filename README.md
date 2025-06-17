@@ -81,7 +81,7 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
       <h3 align="center">MichaelNDev's Portfolio</h3>
         <br />
         <a target="_blank" href="https://michaelnguyen.netlify.app/">
-            <img src="images/michaelndev.png" width="100%" alt="Portfolio"/>
+            <img src="images/portfoliov6.png" width="100%" alt="Portfolio"/>
         </a>
         <br/>
         <p align="center">
