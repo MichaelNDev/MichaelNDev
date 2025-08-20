@@ -33,13 +33,13 @@ See [my website](https://michaelnguyen.netlify.app/) for more information!
     <td width="50%" valign="top">
       <h3 align="center">TasteThreads</h3>
         <br />
-      <a target="_blank" href="https://tastethreads-michaelndev.onrender.com/">
+      <a target="_blank" href="https://tastethreads-v6.onrender.com/">
             <img src="images/tastethreadspreview.png" width="100%"  alt="TasteThreads"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://tastethreads-michaelndev.onrender.com/" target="_blank">
+  <a href="https://tastethreads-v6.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=C70039&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
